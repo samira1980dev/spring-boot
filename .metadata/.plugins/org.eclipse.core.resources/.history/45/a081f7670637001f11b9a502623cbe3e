@@ -1,0 +1,5 @@
+package com.insonestudio.mycoolapp.rest;
+
+public class FunRestController {
+
+}
